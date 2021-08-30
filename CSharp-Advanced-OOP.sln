@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Advanced-OOP", "CSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-ReverseStrings", "01-ReverseStrings\01-ReverseStrings.csproj", "{1067AA08-2B3D-4401-B0B6-28CBF8911F9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-StackSum", "02-StackSum\02-StackSum.csproj", "{7A24508D-5C7E-4B00-8C6D-3AB71B3CAE7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1067AA08-2B3D-4401-B0B6-28CBF8911F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1067AA08-2B3D-4401-B0B6-28CBF8911F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1067AA08-2B3D-4401-B0B6-28CBF8911F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A24508D-5C7E-4B00-8C6D-3AB71B3CAE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A24508D-5C7E-4B00-8C6D-3AB71B3CAE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A24508D-5C7E-4B00-8C6D-3AB71B3CAE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A24508D-5C7E-4B00-8C6D-3AB71B3CAE7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

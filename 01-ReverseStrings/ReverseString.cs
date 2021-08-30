@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ReverseStrings
 {
-    class Program
+    class ReverseString
     {
         static void Main(string[] args)
         {
